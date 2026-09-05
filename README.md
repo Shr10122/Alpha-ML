@@ -7,13 +7,6 @@ explicit controls against the biases that make most amateur quant backtests
 worthless (look-ahead bias, leakage across CV folds, and overlapping-window
 double counting).
 
-## Why this project
-
-Built as a portfolio project while starting an MSc in Data Science, to
-demonstrate applied ML skills in a quant/finance context: feature
-engineering on time series, leakage-safe cross-validation, and the
-methodological rigor that separates a real research process from a
-p-hacked backtest.
 
 ## Methodology summary
 
